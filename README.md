@@ -57,9 +57,9 @@ for the user to open. Nothing is ever charged without them.
 - Measurement runs on **prepaid credits**: `create_tracker` prepares a tracker as a draft, and
   `start_tracker` launches its measurement against the balance. Read the balance first with
   `get_credits`.
-- Every removal is **reversible and its inverse is in the same surface**: archive and unarchive,
-  delete and restore, complete and reopen. Each gesture states a state rather than toggling a
-  switch, so a replay is safe in both directions.
+- Removals are **reversible, and the inverse gesture lives in the same surface**: archive and
+  unarchive a corroboration, delete and restore a surface. Each gesture states a state rather than
+  toggling a switch, so a replay is safe in both directions.
 - Errors come back as the JSON envelope of the REST API v1: same codes, same meaning, whatever the
   transport.
 - Pricing lives on [epovest.com/pricing](https://epovest.com/pricing).
