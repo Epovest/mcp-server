@@ -66,5 +66,8 @@ for the user to open. Nothing is ever charged without them.
 
 ## Company
 
-Epovest is published by Simafri. Terms and privacy: [epovest.com/en/terms](https://epovest.com/en/terms),
+Epovest is a brand operated by Sels de Rehy, LLC, a limited liability company incorporated in the
+State of Delaware, United States, serving clients worldwide.
+
+Terms and privacy: [epovest.com/en/terms](https://epovest.com/en/terms),
 [epovest.com/en/privacy](https://epovest.com/en/privacy).
