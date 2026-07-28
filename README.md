@@ -4,7 +4,7 @@ With Epovest, businesses make AIs recommend them.
 
 This is the official MCP server for [Epovest](https://epovest.com). It is hosted: there is nothing
 to install and no package to build. Point your MCP client at the endpoint below and your assistant
-gets the same 43 tools the app itself is built on.
+gets the same tools the app itself is built on.
 
 ```
 https://mcp.epovest.com/mcp
