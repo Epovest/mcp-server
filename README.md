@@ -62,7 +62,7 @@ for the user to open. Nothing is ever charged without them.
   toggling a switch, so a replay is safe in both directions.
 - Errors come back as the JSON envelope of the REST API v1: same codes, same meaning, whatever the
   transport.
-- Pricing lives on [epovest.com/pricing](https://epovest.com/pricing).
+- Pricing lives on [epovest.com/en/pricing](https://epovest.com/en/pricing).
 
 ## Company
 
