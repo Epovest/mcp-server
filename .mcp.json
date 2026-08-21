@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "epovest": {
+      "type": "http",
+      "url": "https://mcp.epovest.com/mcp"
+    }
+  }
+}
