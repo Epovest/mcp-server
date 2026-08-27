@@ -1,5 +1,7 @@
 # Epovest MCP server
 
+[![M8ven Verified](https://m8ven.ai/badge/mcp/epovest-mcp-server-3y6n74?variant=verified)](https://m8ven.ai/mcp/epovest-mcp-server-3y6n74)
+
 With Epovest, businesses make AIs recommend them.
 
 This is the official MCP server for [Epovest](https://epovest.com). It is hosted: there is nothing
